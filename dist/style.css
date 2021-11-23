@@ -1,0 +1,81 @@
+h1 {
+ font-family: 'Gochi Hand', cursive;
+  font-size: 60px;
+  margin-bottom: 0;
+  border-radius: 5px;
+  color: #E08E45;
+}
+
+h2{
+  margin-top: 0;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-weight: normal;
+ 
+}
+
+h3{
+  padding: 10px;
+  color: #52B763;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 26px;
+ 
+}
+
+p {
+  line-height: 1.6;
+}
+
+#img-div {
+  margin: 0 auto;
+  border-radius: 5px;
+  padding: 30px;
+  width: 900px;
+  border: thin solid #34313F;
+  background-color: #AAABB1;
+  box-shadow: 5px 5px 9px  rgb(0,0,0,0.25);
+}
+
+#image {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+  border-radius: 5px; 
+}
+  
+#img-caption{
+  margin-top: 10px;
+ font-size: 16px;
+ border-radius: 5px;
+}
+
+#main{
+  text-align: center;
+  border-radius: 5px;
+  color: #231F20;  
+  font-family: 'Montserrat', sans-serif;
+  padding: 10px;
+  width: 1400px;
+  margin: 0 auto;
+}
+
+#tribute-info {
+  width: 900px;
+  margin: 0 auto;
+  padding: 3px;  
+}
+
+a {
+  color: #34313F;  
+  text-decoration: none;
+  border-radius: 4px;
+  background-color: #E08E45;
+  padding: 8px;  
+  box-shadow: 8px 5px 9px rgb(0,0,0,0.25);
+  transition: .35s ease-in-out;
+ 
+}
+
+a:hover{
+  background-color: rgb(223,143,69,0.8);
+}
